@@ -12,6 +12,7 @@ Practicing DSA in JAVA.
 | [0268-missing-number](https://github.com/Shubhkan/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shubhkan/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shubhkan/DSA/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shubhkan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubhkan/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubhkan/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Shubhkan/DSA/tree/master/1920-build-array-from-permutation) |
@@ -22,6 +23,7 @@ Practicing DSA in JAVA.
 | [0027-remove-element](https://github.com/Shubhkan/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubhkan/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shubhkan/DSA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shubhkan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -52,4 +54,5 @@ Practicing DSA in JAVA.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shubhkan/DSA/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shubhkan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
