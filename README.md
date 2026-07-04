@@ -8,6 +8,7 @@ Practicing DSA in JAVA.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhkan/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubhkan/DSA/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhkan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubhkan/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Shubhkan/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shubhkan/DSA/tree/master/0283-move-zeroes) |
@@ -61,4 +62,8 @@ Practicing DSA in JAVA.
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shubhkan/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Shubhkan/DSA/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhkan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
