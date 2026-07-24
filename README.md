@@ -75,6 +75,7 @@ Practicing DSA in JAVA.
 | [0125-valid-palindrome](https://github.com/Shubhkan/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shubhkan/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubhkan/DSA/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/Shubhkan/DSA/tree/master/0520-detect-capital) |
 ## Dynamic Programming
 |  |
 | ------- |
