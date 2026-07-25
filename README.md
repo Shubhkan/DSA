@@ -51,6 +51,7 @@ Practicing DSA in JAVA.
 | [0189-rotate-array](https://github.com/Shubhkan/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shubhkan/DSA/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubhkan/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shubhkan/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Practicing DSA in JAVA.
 | [0242-valid-anagram](https://github.com/Shubhkan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shubhkan/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhkan/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shubhkan/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
