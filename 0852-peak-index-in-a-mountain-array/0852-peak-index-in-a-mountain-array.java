@@ -6,9 +6,9 @@ class Solution {
         while(start < end){
             int mid = (start+end)/2;
             if(arr[mid] > arr[mid +1]){
-                end = mid;
+                end= mid;
             }else{
-                start = mid+1;
+                start= mid+1;
 
             }
         }
