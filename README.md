@@ -19,6 +19,7 @@ Practicing DSA in JAVA.
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubhkan/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhkan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubhkan/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhkan/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubhkan/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Shubhkan/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubhkan/DSA/tree/master/1929-concatenation-of-array) |
@@ -72,6 +73,7 @@ Practicing DSA in JAVA.
 | [0242-valid-anagram](https://github.com/Shubhkan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shubhkan/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhkan/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhkan/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhkan/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -94,4 +96,8 @@ Practicing DSA in JAVA.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Shubhkan/DSA/tree/master/0643-maximum-average-subarray-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhkan/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
